@@ -1,8 +1,3 @@
 # Login
 
-This app consists of various ways to login.
-Some used here are :
-~ Facebook Login
-~ Gmail Login
-~ Twitter Login
-~ Linkedin Login
+Third-party sdk integration for login via Facebook, Google, Twitter and Linkedin.
